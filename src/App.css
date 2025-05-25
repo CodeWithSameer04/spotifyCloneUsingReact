@@ -1,11 +1,25 @@
 .mainContainer{
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
   height: 100vh;
+  font-family: 'Arial', sans-serif;
 }
 
 .mainSectionContentContainer{
   border: 2px solid red;
-  height: 90%;
+  height: 80%;
   display: flex;
   justify-content: space-evenly;
 }
+
+/* src/index.css or App.css
+@font-face {
+  font-family: 'Fontr';
+  src: url('./assets/fonts/fontr.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Use the font */
+/* body {
+  font-family: 'Fontr', sans-serif;
+} */ 

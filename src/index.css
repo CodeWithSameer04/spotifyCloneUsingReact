@@ -18,3 +18,18 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+*::-webkit-scrollbar {
+  width: 12px;
+}
+*::-webkit-scrollbar-track {
+  /* background: #888; */
+}
+ 
+*::-webkit-scrollbar-thumb {
+  background: #343333af; 
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}

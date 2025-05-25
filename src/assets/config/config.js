@@ -8,32 +8,32 @@ import img6 from "../images/img6.png";
 export const TrendingCardData = [
     {
       imgSrc : img1,
-      heading : "Vibe (Feat. Shanaya Kapoor)",
-      subHeading : "Guru Randdhawa, French Montana, JSL Singh"
+      heading : 'Vibe (Feat. Shanaya Kapoor)',
+      subHeading : 'Guru Randdhawa, French Montana, JSL Singh'
     },
     {
       imgSrc : img2,
-      heading : "Courtside",
-      subHeading : "Karan Aujila, Signature By SB"
+      heading : 'Courtside',
+      subHeading : 'Karan Aujila, Signature By SB'
     },
     {
       imgSrc : img3,
-      heading : "Shaky",
-      subHeading : "Sanju Rathod, G-SPXRK"
+      heading : 'Shaky',
+      subHeading : 'Sanju Rathod, G-SPXRK'
     },
     {
       imgSrc : img4,
-      heading : "STFU",
-      subHeading : "AP Dhillon, Shinda Kahlon"
+      heading : 'STFU',
+      subHeading : 'AP Dhillon, Shinda Kahlon'
     },
     {
       imgSrc : img5,
       heading : 'Minnalvala (From "Narivetta")',
-      subHeading : "Jakes Bejoy, Sid Sriram, Sithara Krishnakumar"
+      subHeading : 'Jakes Bejoy, Sid Sriram, Sithara Krishnakumar'
     },
     {
       imgSrc : img6,
       heading : 'Laal Pari (From "Housefull 5")',
-      subHeading : "Yo Yo Honey Singh, Simar Kaur, Alfaaz"
+      subHeading : 'Yo Yo Honey Singh, Simar Kaur, Alfaaz'
     }
   ]
